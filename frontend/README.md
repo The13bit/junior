@@ -369,3 +369,6 @@ For additional details and advanced configurations, refer to the [Kalp SDK docum
 **Feel free to explore further functionalities and enhance your frontend application. Consider adding features like user authentication, transaction history, or integrating with wallets for a more comprehensive dApp experience. Good luck, and happy coding!**
 
 ---
+
+## Added Transfer
+- Set the form wallet by typing in the claim input set the to address by typing in the Transfer column
